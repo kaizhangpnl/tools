@@ -61,9 +61,18 @@ Then you will be able to see the Quickview interface.
 
 ## Connectivity files 
 
+The connectivity files are located at 
+
 ```
 /lcrc/group/e3sm/share/connectivity
 ```
+
+You create a soft link of the connectivity file to the simulation directory, so that you can locate it in Quickview. 
+
+```
+ln -s /lcrc/group/e3sm/share/connectivity/connectivity_ne30pg2_TEMPEST.scrip.nc /path/to/simulation 
+```
+
 
 ## Installation history 
 
