@@ -81,5 +81,3 @@ $ conda create -n quickview -c conda-forge python=3.14 typing_extensions e3sm-qu
 $ conda install e3sm_compareview # if you need it 
 $ conda activate quickview
 ```
-
-/lcrc/group/e3sm/share/connectivity
