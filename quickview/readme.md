@@ -67,7 +67,7 @@ The connectivity files are located at
 /lcrc/group/e3sm/share/connectivity
 ```
 
-You can create a soft link of the connectivity file in the simulation directory, so that you can locate it in Quickview. 
+You can create a soft link of the connectivity file in the simulation directory, so that you can locate it more easily in Quickview. 
 
 ```
 ln -s /lcrc/group/e3sm/share/connectivity/connectivity_ne30pg2_TEMPEST.scrip.nc /path/to/simulation 
