@@ -43,6 +43,8 @@ Use URL below to connect to the application:
 
 ```
 
+Note that the port number (here 42747) will be changed each time. 
+
 Don't close this tab. Open a new tab and login to Chrysalis this way:  
 
 ```
