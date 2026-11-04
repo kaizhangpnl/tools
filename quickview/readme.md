@@ -1,17 +1,5 @@
 ## Quickview on Chrysalis  
 
-
-## Install your own 
-
-```
-$ module load miniforge3/25.3.1
-$ conda create -n quickview -c conda-forge python=3.14 typing_extensions e3sm-quickview mesalib -y
-$ conda install e3sm_compareview # if you need it 
-$ conda activate quickview
-```
-
-/lcrc/group/e3sm/share/connectivity
-
 ## Use shared installation 
 
 ```
@@ -84,3 +72,14 @@ $ conda activate /lcrc/group/e3sm/share/quickview
 $ conda install e3sm_compareview 
 ```
 
+
+## Install your own 
+
+```
+$ module load miniforge3/25.3.1
+$ conda create -n quickview -c conda-forge python=3.14 typing_extensions e3sm-quickview mesalib -y
+$ conda install e3sm_compareview # if you need it 
+$ conda activate quickview
+```
+
+/lcrc/group/e3sm/share/connectivity
