@@ -78,6 +78,6 @@ $ conda install e3sm_compareview
 ```
 $ module load miniforge3/25.3.1
 $ conda create -n quickview -c conda-forge python=3.14 typing_extensions e3sm-quickview mesalib -y
+$ conda activate quickview 
 $ conda install e3sm_compareview # if you need it 
-$ conda activate quickview
 ```
